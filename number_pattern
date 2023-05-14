@@ -1,0 +1,15 @@
+n = int(input())
+for i in range(n):
+    k = 1
+    for j in range(2*n):
+        if(i>=j):
+            print(k,end = "")
+            k=k+1
+        elif(i+j>=2*n-1):
+            k = k-1
+            print(k,end = "")
+            
+        else:
+            print(end = " ")
+    print()
+        
