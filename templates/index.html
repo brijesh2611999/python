@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sentiment Analysis</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <h3>Sentiment Analysis Project</h3>
+    <form method="POST" action="{{ url_for('index') }}">
+        <label>Write text here...</label><br>
+        <textarea name="review_text" rows="4" cols="50" required></textarea><br>
+        <button type="submit" value="predict">Predict</button>
+    </form>
+    {% if given_text %}
+    <h3 class="result">Given Text: {{ given_text }}</h3>
+    {% endif %}
+
+    {% if predict %}
+    <h3 class="result {{ 'Positive' if predict=='Positive' else 'Negative' }}">Sentiment: {{ predict }}</h3>
+    {% endif %}
+
+
+    {% if percentage %}
+    <h3 class="result">Prediction Confidence: {{ percentage }}%</h3>
+    {% endif %}
+
+    {% if success_message %}
+    <div class="success-message">
+        {{ success_message }}
+    </div>
+    {% endif %}
+
+</body>
+</html>
