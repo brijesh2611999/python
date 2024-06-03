@@ -41,5 +41,5 @@ def index():
     return render_template('index.html', predict=s, given_text=text, percentage=percentage,success_message=success_message)
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
