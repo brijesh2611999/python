@@ -1,0 +1,48 @@
+
+button{
+    background-color:#00c04b;
+    color:white;
+    border:none;
+    height:30px;
+    margin:10px 0;
+    cursor:pointer;
+    width:10%;
+}
+button:hover{
+    background-color:#4cae4c;
+}
+textarea{
+    height:100px;
+    padding:10px;
+    font-size:16px;
+    margin:10px 0;
+    border:1px solid #ccc;
+}
+body{
+    background-color:#f4f4f4;
+    font-family:Arial,sans-serif;
+}
+ .result {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+.Positive {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .Negative {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+.success-message{
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 18px;
+            font-weight: bold;
+}
