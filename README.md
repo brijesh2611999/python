@@ -59,6 +59,8 @@ The following preprocessing steps are applied to the text data:
 + Removing Punctuation: Strips out punctuation marks from the text.
 
 
+ <img src="Positive_Input.png" alt="Sentiment Analysis" width="700">
+
 ## Result:
 
 The model has been trained on a dataset of movie reviews and achieves an accuracy of approximately 86%. Below are some example predictions:
