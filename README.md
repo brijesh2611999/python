@@ -9,8 +9,6 @@ This repository contains a Sentiment Analysis project built using TensorFlow and
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -75,3 +73,12 @@ The model has been trained on a dataset of movie reviews and achieves an accurac
 
 ### Negative Output:
    <img src="Negative_Output.png" alt="Sentiment Analysis" width="700">
+
+
+## Contact
+
+Feel free to reach out if you have any questions or feedback!
+
+- **Email:** bv2611999@gmail.com
+- **LinkedIn:** [brijeshverma086]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brijeshverma086/))
+- **GitHub:** [brijesh2611999]([https://github.com/your-username](https://github.com/brijesh2611999))
