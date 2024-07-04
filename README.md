@@ -8,6 +8,7 @@ This repository contains a Sentiment Analysis project built using TensorFlow and
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
+- [Preprocessing Steps](#PreprocessingSteps)
 - [Results](#results)
 - [Contact](#contact)
 
