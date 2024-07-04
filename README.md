@@ -64,11 +64,14 @@ The following preprocessing steps are applied to the text data:
 
 The model has been trained on a dataset of movie reviews and achieves an accuracy of approximately 86%. Below are some example predictions:
 
-+ Positive Review: "The movie was fantastic! I enjoyed every moment of it."
+### Positive Input:
+   <img src="Positive_Input.png" alt="Sentiment Analysis" width="700">
+   
+### Positive Output:
+   <img src="Positive_Output.png" alt="Sentiment Analysis" width="700">
 
-    + Prediction: Positive
-+ Negative Review: "The plot was boring and the acting was terrible."
+### Negative Input:
+   <img src="Negative_Input.png" alt="Sentiment Analysis" width="700">
 
-    + Prediction: Negative
-
-   <img src="images/sentiment_analysis.png" alt="Sentiment Analysis" width="500">
+### Negative Output:
+   <img src="Negative_Output.png" alt="Sentiment Analysis" width="700">
