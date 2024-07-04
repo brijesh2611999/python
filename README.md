@@ -57,8 +57,10 @@ The following preprocessing steps are applied to the text data:
 + Removing URLs: Eliminates any URLs present in the text.
 + Removing Punctuation: Strips out punctuation marks from the text.
 
- <img src="dfd.png" alt="Sentiment Analysis" width="500">
- <img src="recurrent_neural_network.jpg" alt="Sentiment Analysis" width="500">
+ <img src="static/css/dfd.png" alt="Sentiment Analysis" width="500">
+
+
+ <img src="static/css/recurrent_neural_network.jpg" alt="Sentiment Analysis" width="500">
  
 
 ## Results:
@@ -66,16 +68,16 @@ The following preprocessing steps are applied to the text data:
 The model has been trained on a dataset of movie reviews and achieves an accuracy of approximately 86%. Below are some example predictions:
 
 ### Positive Input:
-   <img src="Positive_Input.png" alt="Sentiment Analysis" width="700">
+   <img src="static/css/Positive_Input.png" alt="Sentiment Analysis" width="700">
    
 ### Positive Output:
-   <img src="Positive_Output.png" alt="Sentiment Analysis" width="700">
+   <img src="static/css/Positive_Output.png" alt="Sentiment Analysis" width="700">
 
 ### Negative Input:
-   <img src="Negative_Input.png" alt="Sentiment Analysis" width="700">
+   <img src="static/css/Negative_Input.png" alt="Sentiment Analysis" width="700">
 
 ### Negative Output:
-   <img src="Negative_Output.png" alt="Sentiment Analysis" width="700">
+   <img src="static/css/Negative_Output.png" alt="Sentiment Analysis" width="700">
 
 
 ## Contact
