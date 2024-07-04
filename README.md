@@ -47,7 +47,6 @@ The model is built using the following layers:
 + Dropout Layers: Prevents overfitting.
 + Dense Layer: Outputs the final prediction.
 
-
 ## Preprocessing Steps
 
 The following preprocessing steps are applied to the text data:
