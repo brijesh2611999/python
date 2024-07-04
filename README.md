@@ -80,5 +80,5 @@ The model has been trained on a dataset of movie reviews and achieves an accurac
 Feel free to reach out if you have any questions or feedback!
 
 - **Email:** bv2611999@gmail.com
-- **LinkedIn:** [brijeshverma086]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brijeshverma086/))
-- **GitHub:** [brijesh2611999]([https://github.com/your-username](https://github.com/brijesh2611999))
+- **LinkedIn:** [brijesh verma](https://www.linkedin.com/in/brijeshverma086/)
+- **GitHub:** [brijesh2611999](https://github.com/brijesh2611999)
