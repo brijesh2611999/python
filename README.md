@@ -61,6 +61,12 @@ The following preprocessing steps are applied to the text data:
 
  <img src="dfd.png" alt="Sentiment Analysis" width="700">
 
+
+## Layers:
+
+<img src="recurrent_neural_network.jpg" alt="Sentiment Analysis" width="700">
+ 
+
 ## Result:
 
 The model has been trained on a dataset of movie reviews and achieves an accuracy of approximately 86%. Below are some example predictions:
